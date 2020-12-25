@@ -11,19 +11,23 @@ Overview
 ## Algorithms used
 
 Regression:
+
 • Linear Regression
 • Lasso and Ridge Regression
 • Logistic Regression
 
 Classification:
+
 • K-Nearest Neighbours
 • Support Vector Machine
 • Decision Tree
 
 Clustering:
+
 • K-Means
 
 Ensemble:
+
 • Random Forest
 
 If this repsoitory helped you in any usercase hit the ⭐!
