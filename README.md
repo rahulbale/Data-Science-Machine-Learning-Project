@@ -8,6 +8,7 @@ This repository all the Machine Learning Models
 ## Overview
 
 • Datasets and the solution are provided in each of the folders above and the problem statements as well.
+
 • This repository consists of all my Machine Learning projects.
 
 ## Algorithms used
