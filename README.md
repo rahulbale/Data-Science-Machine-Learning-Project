@@ -2,9 +2,11 @@
 This repository all the Machine Learning Models
 
 ## Why this repository?
+
 • This repository provides all the Machine Learning projects at one place, hence keeping my GitHub well organized!
 
-Overview
+## Overview
+
 • Datasets and the solution are provided in each of the folders above and the problem statements as well.
 • This repository consists of all my Machine Learning projects.
 
