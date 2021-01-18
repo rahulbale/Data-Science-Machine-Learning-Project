@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-This repository all the Machine Learning Models
+This repository contains all the Machine Learning Models
 
 ## Why this repository?
 
