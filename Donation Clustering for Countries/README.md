@@ -40,3 +40,10 @@ The data is contains values of different features are from different sources. Th
  | 167	| 10| 	10	| 1	| Null| 
 
 <hr>
+
+
+<hr>
+
+## Clusters
+
+![alt text](https://github.com/rahulbale/Data-Science-Machine-Learning-Project/blob/main/Donation%20Clustering%20for%20Countries/output/cluster.png)
