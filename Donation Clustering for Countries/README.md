@@ -42,7 +42,6 @@ The data is contains values of different features are from different sources. Th
 <hr>
 
 
-<hr>
 
 ## Clusters
 
