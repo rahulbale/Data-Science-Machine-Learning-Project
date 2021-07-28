@@ -47,3 +47,17 @@ The data is contains values of different features are from different sources. Th
 ## Clusters
 
 ![alt text](https://github.com/rahulbale/Data-Science-Machine-Learning-Project/blob/main/Donation%20Clustering%20for%20Countries/output/cluster.png)
+
+<hr>
+
+## Conclusion
+
+**Countries which CEO should share out funds**
+
+- **Cluster 1 :** This group of Countries lies in low for all the factors represented in the dataset features, CEO Should focus on this countries, as he must raise 70% of money. In Addition, CEO should encourage them to generate increase in health care system, high exports and moderate import which can increase income, lifestyle, gdpp and decrease child mort rate. 
+- **Cluster 4 :** 25% should be distributed to this country, to encourage them increase in healthcare system and exports. 
+- **Cluster 0 :** With small-scale healthcare system 1-5% should be alloted to this countries. 
+
+**Countries which CEO should not share out funds** 
+- **Cluster 2 :** This country should center of attention towards increase in exports and decrese in imports which will sharp there gdpp.
+- **Cluster 3 :** There is similar discription as Cluster 2 Country, but this countries should focus more towards increase in gdpp.
