@@ -37,7 +37,7 @@ The data is contains values of different features are from different sources. Th
 
 | Number of Instances| Number of Attributes | 	Numeric Features	| Categorical Features	| Missing Values| 
  | :-------------: | :------------: | :-------------: | :------------: | :-------------:| 
- | 167	| 10| 	10	| 1	| Null| 
+ | 167	| 10| 9	| 1	| Null| 
 
 <hr>
 
