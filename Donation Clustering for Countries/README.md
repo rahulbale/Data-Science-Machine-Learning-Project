@@ -29,3 +29,14 @@ The data is contains values of different features are from different sources. Th
 8. **life_expec :** The average number of years a new born child would live if the current mortality patterns are to remain the same
 9. **total_fer :** The number of children that would be born to each woman if the current age-fertility rates remain the same
 10. **gdpp :** The GDP per capita. Calculated as the Total GDP divided by the total population.
+
+
+<hr>
+
+## Dataset
+
+| Number of Instances| Number of Attributes | 	Numeric Features	| Categorical Features	| Missing Values| 
+ | :-------------: | :------------: | :-------------: | :------------: | :-------------:| 
+ | 167	| 10| 	10	| 1	| Null| 
+
+<hr>
